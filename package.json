@@ -1,0 +1,16 @@
+{
+  "name": "pick-enum",
+  "version": "1.0.0",
+  "description": "Util to pick TypeScript enum keys, values or entries",
+  "main": "pickEnum.ts",
+  "author": "Didley",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vitest": "^0.34.5"
+  },
+  "scripts": {
+    "test": "vitest ."
+  }
+}
